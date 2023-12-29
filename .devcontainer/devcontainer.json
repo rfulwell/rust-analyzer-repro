@@ -28,9 +28,9 @@
 				"rust-lang.rust-analyzer"
 			],
 			"settings": {
-				"rust-analyzer.cargo.buildScripts.enable": false,
-				"rust-analyzer.procMacro.attributes.enable": false,
-				"rust-analyzer.procMacro.enable": false
+				// "rust-analyzer.cargo.buildScripts.enable": false,
+				// "rust-analyzer.procMacro.attributes.enable": false,
+				// "rust-analyzer.procMacro.enable": false
 			}
 		}
 	}
